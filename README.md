@@ -1,4 +1,4 @@
-# PracAuxi2-121
+# Practica Auxiliatura 2-121
 
 Sebastian Guido Zalles Quispe
 
